@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-import polars as pl
 from sec_edgar_downloader import Downloader
 
 def download_10k(company_ticker):
