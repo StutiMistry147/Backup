@@ -1,5 +1,4 @@
 import requests
-import polars as pl
 
 def fetch_co2_data():
     url = "http://api.worldbank.org/v2/country/USA/indicator/EN.ATM.CO2E.PC?format=json"
