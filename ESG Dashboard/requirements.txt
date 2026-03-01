@@ -1,0 +1,8 @@
+streamlit
+polars
+requests
+beautifulsoup4
+plotly
+openai
+sec-edgar-downloader
+pandas
