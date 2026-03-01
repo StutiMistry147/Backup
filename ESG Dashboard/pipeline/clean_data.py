@@ -1,4 +1,4 @@
-import polars as pl
+
 
 def merge_datasets():
     company_df = pl.read_csv("data/processed/company_emissions.csv")
